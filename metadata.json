@@ -1,0 +1,6 @@
+{
+  "name": "J. Fragrances Atelier",
+  "description": "An exquisite luxury perfume storefront and immersive olfactory workspace inspired by J. Fragrances, showcasing high-end oriental ouds, premium musks, interactive ingredient profiles, dynamic scent accords, and personalized bottle engraving.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
